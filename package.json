@@ -9,7 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.37"
+    "daisyui": "^2.20.0",
+    "vue": "^3.2.37",
+    "vue-material-design-icons": "^5.1.2",
+    "vue-router": "4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.0.0",

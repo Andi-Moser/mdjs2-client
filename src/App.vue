@@ -1,12 +1,12 @@
 <script setup lang="ts">
-
+  import vApp from './components/Layout/vApp.vue'
 
 </script>
 
 <template>
-  <v-app>
-
-  </v-app>
+  <vApp>
+    <router-view />
+  </vApp>
 </template>
 
 <style scoped>
